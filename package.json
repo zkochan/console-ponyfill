@@ -4,7 +4,7 @@
   "description": "Browser console ponyfill.",
   "main": "index.js",
   "scripts": {
-    "test": "foso build test"
+    "test": "node fosofile"
   },
   "repository": {
     "type": "git",
@@ -27,5 +27,9 @@
   "homepage": "https://github.com/zkochan/console-ponyfill#readme",
   "publishConfig": {
     "registry": "http://registry.npmjs.org"
+  },
+  "devDependencies": {
+    "fosify-test": "^0.1.5",
+    "foso": "^0.9.6"
   }
 }
