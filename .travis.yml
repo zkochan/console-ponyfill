@@ -1,0 +1,7 @@
+language: node_js
+sudo: false
+before_script:
+  - npm install -g foso
+  - npm install -g fosify-test
+node_js:
+  - '0.10'

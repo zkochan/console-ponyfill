@@ -4,6 +4,7 @@ var console = require('../');
 
 describe('Console', function() {
   it('has all the required methods', function() {
+    expect(console.memory).to.be.defined;
     expect(console.log).to.be.a('function');
     expect(console.info).to.be.a('function');
     expect(console.debug).to.be.a('function');
