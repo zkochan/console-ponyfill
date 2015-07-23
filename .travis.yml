@@ -1,6 +1,6 @@
 language: node_js
 install:
-  - sude npm install -g foso
-  - sude npm install -g fosify-test
+  - sudo npm install -g foso
+  - sudo npm install -g fosify-test
 node_js:
   - '0.10'
