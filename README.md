@@ -1,6 +1,6 @@
 # console-ponyfill
 
-Browser console ponyfill.
+Browser console [ponyfill](https://ponyfill.com).
 
 [![Dependency Status](https://david-dm.org/zkochan/console-ponyfill/status.svg?style=flat)](https://david-dm.org/zkochan/console-ponyfill)
 [![Build Status](https://travis-ci.org/zkochan/console-ponyfill.svg?branch=master)](https://travis-ci.org/zkochan/console-ponyfill)
