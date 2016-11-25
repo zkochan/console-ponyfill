@@ -29,7 +29,7 @@
     "registry": "http://registry.npmjs.org"
   },
   "devDependencies": {
-    "fosify-test": "^0.1.5",
-    "foso": "^0.9.6"
+    "fosify-test": "^0.4.0",
+    "foso": "^0.10.3"
   }
 }
